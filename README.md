@@ -1,24 +1,35 @@
+A [Next.js 13 Crash Course](https://www.youtube.com/watch?v=Y6KDk5iyrYE&list=PLraf96bCHsLPfBSl_5_co4Y43AZlmvcR5&index=25&t=36s) by [Traversy Media](https://www.traversymedia.com/)
+
+## The topics covered are
+
+- Setup & File Structure
+- Homepage & Clean Up
+- Routing System
+- Nested Routes
+- Layouts
+- Metadata API
+- next/font/google
+- Header Component
+- React Server Components
+- use client
+- Data Fetching
+- ReposPage Output
+- Custom Loading Page
+- Dynamic Routes
+- params Prop
+- Repo & RepoDir Component
+- Suspense Boundaries
+- Caching & Revalidating
+- API Route Handlers
+- Serving Course Data
+- Fetching Course Data
+- Getting Search Params
+- Getting Body Data
+- Refactor Server to Client Component
+- Search Component
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
